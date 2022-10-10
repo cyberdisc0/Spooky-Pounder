@@ -1,8 +1,8 @@
 ## Token deposited in the vault
-WANT = "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+WANT = "0xEc454EdA10accdD66209C57aF8C12924556F3aBD"      #lp for wbtc/weth on spookswap
 
 ## Account that has a lot of want (we will "borrow it" for testing)
-WHALE_ADDRESS = "0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5"
+WHALE_ADDRESS = "0x3f06b360fb8F8bf04D4C246dB21B3Fed23136f99"
 
 ## Address for Badger Registry, used to fill in default addresses
 ## See: https://github.com/Badger-Finance/badger-registry
